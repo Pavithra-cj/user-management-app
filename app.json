@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "User-management-app",
+    "slug": "User-management-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
